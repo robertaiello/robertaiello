@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning 2FA with a timed otp!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me r.aiello3@studenti.unior.it
-- 😄 Pronouns: she/her but if you call me a he you also will have to address me as "daddy".
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I write stories in my free time!
 
 <!---
